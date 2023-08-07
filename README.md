@@ -1,4 +1,5 @@
 # YouTube Clone with React and MUI5 using Rapid API
+
 ![](https://raw.githubusercontent.com/rhunor/rhunor-tube/main/Screenshot%202023-08-07%20at%205.08.59%20PM.png)
 
 This is a YouTube clone web application built with React and MUI5 that utilizes the Rapid API to fetch video data from the official YouTube API. This project was created for educational purposes to learn about React, MUI5, and API integration.
